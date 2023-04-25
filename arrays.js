@@ -1,3 +1,4 @@
+// 09 Arrays
 // Exercise 1
 const names = ['David', 'Ninya', 'Cleo', 'Sunny'];
 
