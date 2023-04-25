@@ -10,6 +10,17 @@ for (let i = 1 ; i <=20 ; i++) {
   }
 };
 
+/* Another syntax for loops using while
+
+let i = 0
+
+while (i <= 10) {
+  console.log(i);
+
+  i += 1;
+} 
+*/
+
 // Challenge: Write a function fizzbuzzUntil that accepts a number. 
 // This function should use a loop to loop through all numbers from 1 to the given one, 
 // call the fizzBuzz function for the current number and print the result.
